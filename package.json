@@ -1,0 +1,22 @@
+{
+  "name": "formik-asynchronous-email-validation-example",
+  "version": "0.0.83",
+  "description": "A Formik form where emails are validated asynchronously using deep email validator endpoint.",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "formik": "2.1.4",
+    "lodash": "4.17.15",
+    "react": "16.13.0",
+    "react-dom": "16.13.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
